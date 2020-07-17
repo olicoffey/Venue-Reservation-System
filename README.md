@@ -1,5 +1,4 @@
 # Venue-Reservation-System
-Tech Elevator mini capstone integrating CLI, DAO, JDBC with a database in postgreSQL.
 
 Tech Elevator 2nd mini capstone.
 
